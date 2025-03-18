@@ -91,7 +91,7 @@ nav ul li a:hover::after {
 
 /* Hero Section */
 .hero {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('download.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('logo.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
